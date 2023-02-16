@@ -4,7 +4,7 @@ Hi 👋 My name is Alawee
 I am Computer Engineering Student
 ---------------------------------
 
-4th year Computer Engineering Student at Walailak University, Thailand Internship at Western Digital, Thailand
+4th year Computer Engineering Student at Walailak University, Thailand<br/>Internship at Western Digital, Thailand
 
 * 🌍  I'm based in Thailand
 
